@@ -1,5 +1,6 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
+
 >### `Who am I?`
 <h3 align="center">
   <em>Welcome to Ranjeet Kumar's profile!</em>
@@ -15,7 +16,7 @@
 - `code : Machine learning, Tableau, Excel, Python, MySQl, SQLite`
 - `tools : Scikit, Pandas, Matplotlib, Numpy, Selenium, Beautiful_Soup` 
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif">
+<img align="right" alt="coding" width="300" src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeet8585918564&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeet8585918564" /> </p>
 
