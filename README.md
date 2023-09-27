@@ -1,5 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ranjeet Kumar</h1>
-<h3 align="center">"Turning data into insights, one line of code at a time 🌟"</h3>
+>### `Who am I?`
+<h3 align="center">
+  <em>Welcome to Ranjeet Kumar's profile!</em>
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h3>
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Welcome+to+my+Github+page;Name+Reveal+-->+Ranjeet+Kumar;Aspiring+Data+scientist+From+Non_Tech+to+Tech+Student;Aspiring+Enthusiast;Key+interests+-->;Doing+Analysis+Bringing+best+outcome;Graphic-Designing;Aesthetic+Art+Lover+%3C3;and+much+more..."></a>
+</p>
+<br>
+
+><h3>Briefing on my Skills</h3>
+- pronouns: "he" | "him"
+- `code : Machine learning, Tableau, Excel, Python, MySQl, SQLite`
+- `tools : Scikit, Pandas, Matplotlib, Numpy, Selenium, Beautiful_Soup` 
 
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif">
 
