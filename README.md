@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **kumarranjeet07287@gmail.com**
 
-- ⚡ Fun fact **I'm an avid Ethical Hacking and Data Security enthusiast when I'm not crunching data numbers! 🌟"**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
